@@ -14,4 +14,6 @@
 ## Blockly
   Here is my picture of my solution of blockly ![blockly](blockly.png)
 ##Reflection
-  I like to brainstorm ideas for convenient solutions to my everyday problems. I 
+  I like to brainstorm ideas for convenient solutions to my everyday problems. In the hackathon
+  last fall I made a skill for the Amazon Echo to interface with Github's API and tell you things
+  about your repository. I'd like to discover more ways to use the Echo and enhance it's functionality.
