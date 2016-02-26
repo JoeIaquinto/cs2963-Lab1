@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/iaquij/Desktop/Semester4/open source/cs2963-labs/Lab5/MathFunctions/MathFunctions.h
+
+/cygdrive/c/Users/iaquij/Desktop/Semester4/open source/cs2963-labs/Lab5/MathFunctions/Table.h
+
+/cygdrive/c/Users/iaquij/Desktop/Semester4/open source/cs2963-labs/Lab5/MathFunctions/mysqrt.cxx
+stdio.h
+-
+MathFunctions.h
+/cygdrive/c/Users/iaquij/Desktop/Semester4/open source/cs2963-labs/Lab5/MathFunctions/MathFunctions.h
+TutorialConfig.h
+/cygdrive/c/Users/iaquij/Desktop/Semester4/open source/cs2963-labs/Lab5/MathFunctions/TutorialConfig.h
+Table.h
+/cygdrive/c/Users/iaquij/Desktop/Semester4/open source/cs2963-labs/Lab5/MathFunctions/Table.h
+math.h
+-
+
+TutorialConfig.h
+

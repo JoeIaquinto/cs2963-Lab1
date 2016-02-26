@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/iaquij/Desktop/Semester4/open source/cs2963-labs/Lab5/TutorialConfig.h
+
+/cygdrive/c/Users/iaquij/Desktop/Semester4/open source/cs2963-labs/Lab5/tutorial.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+TutorialConfig.h
+/cygdrive/c/Users/iaquij/Desktop/Semester4/open source/cs2963-labs/Lab5/TutorialConfig.h
+MathFunctions.h
+/cygdrive/c/Users/iaquij/Desktop/Semester4/open source/cs2963-labs/Lab5/MathFunctions.h
+
+MathFunctions/MathFunctions.h
+
